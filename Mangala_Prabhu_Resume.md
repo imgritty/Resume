@@ -5,8 +5,8 @@ _mangala.m.prabhu@gmail.com_
 
 Objective
 ---------
-To work as a Programmer in a company that pioneers in innovation, which enables me to grow as a 
-professional improving my knowledge and skills.
+To work as a Programmer in a company that pioneers in innovation, where I can grow as 
+a professional by improving my knowledge and skills.
 
 Professional Experience
 -----------------------
