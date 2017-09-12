@@ -40,9 +40,7 @@ INET, Gateway Simulator, SIP Tester
 
 Education 
 ---------
-Bachelor of  Science in Computer Engineering 
-University                  :    Mangalore University
-Percentage                  :    72 %
+Bachelor of  Science in Computer Engineering _Mangalore University India_
 
 
 
