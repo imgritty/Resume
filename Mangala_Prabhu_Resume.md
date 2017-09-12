@@ -1,12 +1,12 @@
 ## Mangala Prabhu
 
-_9902, 223rd Ave NE Redmond WA 98053_
+_9902 223rd Ave NE Redmond WA 98053_
 _mangala.m.prabhu@gmail.com_
 
 Objective
 ---------
-To work as a Software Engineer in an innovative and cutting-edge tech company, where I can grow
- as a professional improving my knowledge and skills.
+To work as a Programmer in a company that pioneers in innovation, where I can grow as a 
+professional improving my knowledge and skills.
 
 Professional Experience
 -----------------------
