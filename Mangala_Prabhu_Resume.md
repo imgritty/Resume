@@ -27,16 +27,16 @@ Technical Profile
 INBAND, SS7, ISDN, MEGACO, SIP 
 
 ### Operation System 
-Lynx RTOS, UNIX, 
+Lynx RTOS, UNIX
 
 ### Languages     
-C
+C, C++, JAVA, SQL
 
 ### Development Environment
-Clearcase environment, GCC and GDB
+Clearcase environment, GCC, GDB
 
 ### Testing Tools 
-INET, gateway simulator and SIP tester tools.
+INET, Gateway Simulator, SIP Tester
 
 Education 
 ---------
