@@ -10,8 +10,7 @@ To work as a Software Engineer in an innovative and cutting-edge tech company, w
 
 Professional Experience
 -----------------------
-### Axes Technologies (I) Pvt. Ltd., Bangalore, India
-_Senior Software Engineer, (2001-2006)_
+### Axes Technologies (I) Pvt. Ltd., Bangalore, India _Senior Software Engineer, (2001-2006)_
 Senior member of a team that worked on development of call processing software, integration
 of VOIP and other telecom  projects.
 
@@ -28,10 +27,10 @@ Technical Profile
 INBAND, SS7, ISDN, MEGACO, SIP 
 
 ### Operation System 
-Lynx RTOS 
+Lynx RTOS, UNIX, 
 
 ### Languages     
-C, C++, JAVA, SQL
+C
 
 ### Development Environment
 Clearcase environment, GCC and GDB
