@@ -30,7 +30,7 @@ INBAND, SS7, ISDN, MEGACO, SIP
 Lynx RTOS, UNIX
 
 ### Languages     
-C, C++, JAVA, SQL
+C, C++
 
 ### Development Environment
 Clearcase environment, GCC, GDB
